@@ -95,7 +95,7 @@ To design and develop an **interactive Power BI dashboard** for analyzing **empl
 
 ---
 
-###  **Dashboard Image**
+### 🖼️ Dashboard Preview
 
 ![Dashboard Screenshot](https://github.com/SahebagodaMN/Data_Analyst2/blob/main/screenshot.png)
 ---
