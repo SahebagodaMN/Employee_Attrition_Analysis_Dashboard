@@ -84,8 +84,8 @@ To design and develop an **interactive Power BI dashboard** for analyzing **empl
 
 10. **Employee Distribution by Tenure Group**
 
-* 📊 **Visual**: Bar Chart / Column Chart
-* 🧭 Insight: Visualize employee experience segments within the organization.
+  * 📊 **Visual**: Bar Chart / Column Chart
+  * 🧭 Insight: Visualize employee experience segments within the organization.
 
 ---
 
