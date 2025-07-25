@@ -91,7 +91,7 @@ To design and develop an **interactive Power BI dashboard** for analyzing **empl
 
 ###  **Dataset Used**
 
-*  <a href="https://github.com/SahebagodaMN/Data_Analyst/blob/main/Employee_Attrition.xls">Employee Attrition Dataset</a>
+*  <a href="https://github.com/SahebagodaMN/Employee_Attrition_Analysis_Dashboard/blob/main/Employee_Attrition.xls">Employee Attrition Dataset</a>
 
 ---
 
