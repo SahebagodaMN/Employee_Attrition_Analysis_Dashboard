@@ -97,7 +97,7 @@ To design and develop an **interactive Power BI dashboard** for analyzing **empl
 
 ### 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/SahebagodaMN/Data_Analyst2/blob/main/screenshot.png)
+![Dashboard Screenshot](https://github.com/SahebagodaMN/Employee_Attrition_Analysis_Dashboard/blob/main/screenshot.png)
 ---
 
 ##  **Conclusion**
